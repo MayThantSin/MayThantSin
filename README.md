@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayThantSin
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning FrontEnd and JS and working as a manual QA @planhat
+- 🌱 I’m currently learning FrontEnd and JS while working as a manual QA @planhat
 - 💞️ I’m looking to collaborate on exciting projects eagerly as an enthusiastic beginner
 - 📫 How to reach me: please send mail to maythantsin125@gmail.com
 
